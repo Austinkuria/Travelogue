@@ -104,7 +104,7 @@ html {
 
 .home-section {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/media/images/woman.jpg");
+    url("media/images/woman.jpg");
   min-width: 90vw;
   min-height: 90vh;
   background-size: cover;
